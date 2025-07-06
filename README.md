@@ -19,4 +19,7 @@ Backend runs at: http://localhost:8080.
 
 And there u go!!
 
+<img width="960" alt="FinalaPP" src="https://github.com/user-attachments/assets/449a082c-8170-4cbc-98b3-a8a7aedf75af" />
+
+
 
